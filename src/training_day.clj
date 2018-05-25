@@ -10,7 +10,3 @@
 (defn average [a b]
   (/ (+ a b) 2))
 
-
-(println (square 2))
-
-(println (average 5 10))
